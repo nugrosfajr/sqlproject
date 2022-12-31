@@ -4,4 +4,4 @@ This is a collection of assignments and final tasks in the SQL module at Refocus
 
     a. The dataset used
     b. Task scenario
-    c. SQL syntax
+    c. SQL query
